@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/MyBatis-01/src/main/resources/mybatis/mapper/UserMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-02/src/main/resources/mybatis/mapper/ParameterMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-02/src/main/resources/mybatis/mapper/SQLMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-02/src/main/resources/mybatis/mapper/SelectMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-03/src/main/resources/mybatis/mapper/CacheMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-03/src/main/resources/mybatis/mapper/DeptMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-03/src/main/resources/mybatis/mapper/DynamicsSQLMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/MyBatis-03/src/main/resources/mybatis/mapper/EmpMapper.xml" dialect="GenericSQL" />
+  </component>
+</project>
